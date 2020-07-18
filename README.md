@@ -1,2 +1,3 @@
-# session_dockers_practices
-Session Dockers Practices Material
+# CDS ACADEMY - Session Dockers
+
+Include following folders with resources for practices referred in session.
